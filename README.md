@@ -1,1 +1,2 @@
-# Stock_price_PredictionLSTM
+# Stock price prediction with LSTM
+Looks like it is look-back timestamp senstive.
